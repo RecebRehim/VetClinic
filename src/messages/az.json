@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "title": "VetCare · Bakı — Premium Baytar Klinika",
+    "description": "Bakıda premium baytar xidməti. Təcili yardım, cərrahiyyə, vaksinasiya, diaqnostika və ev ziyarəti. Randevu alın — WhatsApp və ya zəng ilə."
+  },
+  "nav": {
+    "home": "Ana səhifə",
+    "services": "Xidmətlər",
+    "doctors": "Həkimlər",
+    "about": "Haqqımızda",
+    "testimonials": "Rəylər",
+    "faq": "FAQ",
+    "contact": "Əlaqə",
+    "book": "Randevu al"
+  },
+  "clinic": {
+    "tagline": "Premium baytar klinikası",
+    "since": "2009-cu ildən"
+  },
+  "hero": {
+    "eyebrow": "Etibarlı baytar qayğısı — 2009-dan",
+    "title": "Heyvanınızın hər mərhələsi üçün",
+    "titleAccent": "müstəsna baytar qayğısı",
+    "subtitle": "VetCare Bakının mərkəzində 15 ildən artıqdır ki, ev heyvanlarına premium tibbi xidmət göstərir. Rutindən cərrahiyyəyə — hər addımda sizinləyik.",
+    "ctaBook": "Randevu al",
+    "ctaCall": "İndi zəng et",
+    "badgeYears": "15+ il təcrübə",
+    "badgePets": "25.000+ xoşbəxt heyvan",
+    "badgeEmergency": "Təcili yardım",
+    "badgeLicensed": "Lisenziyalı həkimlər",
+    "floatRating": "4.9★ · 392 rəy",
+    "floatEmergency": "Təcili: 050 355 17 17"
+  },
+  "features": {
+    "emergency": "Təcili yardım",
+    "xray": "Rəqəmsal rentgen",
+    "ultrasound": "Ultrasəs",
+    "lab": "Laboratoriya",
+    "vaccination": "Vaksinasiya",
+    "surgery": "Cərrahiyyə",
+    "grooming": "Qulluq",
+    "homeVisit": "Ev ziyarəti"
+  },
+  "about": {
+    "eyebrow": "Haqqımızda",
+    "title": "15 il —",
+    "titleAccent": "sevgi və elm ilə.",
+    "story": "VetCare 2009-cu ildə Bakıda qurulub və bu gün şəhərin ən etibarlı tam xidmətli özəl baytar klinikalarından biridir. Heyvanlara olan dərin sevgini ciddi tibbi ekspertiza ilə birləşdiririk.",
+    "mission": "Missiyamız hər ev heyvanına stresssiz, şəffaf və yüksək keyfiyyətli tibbi qayğı təqdim etməkdir.",
+    "values": {
+      "licensed": {
+        "title": "Lisenziyalı komanda",
+        "desc": "Hər həkim sertifikatlıdır, Avropa protokollarına uyğun hazırlanır və davamlı peşəkar inkişafdadır."
+      },
+      "equipped": {
+        "title": "Tam avadanlıq",
+        "desc": "Rəqəmsal rentgen, ultrasəs, laboratoriyа, cərrahiyyə otağı və gecəlik qulluq — hamısı bir dam altında."
+      },
+      "friendly": {
+        "title": "Heyvana dost yanaşma",
+        "desc": "Aşağı stressli müayinə otaqları, itlər və pişiklər üçün ayrı gözləmə zonaları, sakit temp."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Xidmətlər",
+    "title": "Həyat boyu",
+    "titleAccent": "yanınızdayıq.",
+    "subtitle": "Rutin vaksindən mürəkkəb cərrahiyyəyə — heyvanınızın ehtiyacı olan hər şey bir yerdə.",
+    "items": {
+      "checkup": { "title": "Ümumi müayinə", "desc": "Tam klinik yoxlama, profilaktika planı və sağlamlıq izləməsi." },
+      "vaccination": { "title": "Vaksinasiya", "desc": "Quduzluq, kompleks vaksinlər və beynəlxalq pasport üçün qrafik." },
+      "sterilization": { "title": "Sterilizasiya", "desc": "Müasir anesteziya və monitorinq ilə təhlükəsiz sterilizasiya." },
+      "castration": { "title": "Kastrasiya", "desc": "Təcrübəli cərrahlar, ağrısız bərpa protokolu." },
+      "emergency": { "title": "Təcili yardım", "desc": "İş saatlarında kritik hallar üçün növbətçi həkim." },
+      "passport": { "title": "Heyvan pasportu", "desc": "Lisenziyalı klinika — beynəlxalq pasport və FAVN nümunəsi." },
+      "microchip": { "title": "Mikročip", "desc": "ISO mikroçip yerləşdirmə və qeydiyyat." },
+      "blood": { "title": "Qan analizi", "desc": "Daxili laboratoriya — çox vaxt eyni gün nəticə." },
+      "ultrasound": { "title": "Ultrasəs", "desc": "Daxili orqanlar, hamiləlik və diaqnostika." },
+      "xray": { "title": "Rəqəmsal rentgen", "desc": "Sürətli, dəqiq sümük və daxili görüntüləmə." },
+      "surgery": { "title": "Cərrahiyyə", "desc": "Yumşaq toxuma, ortopediya, sterilizasiya/kastrasiya." },
+      "dentistry": { "title": "Stomatologiya", "desc": "Peşəkar təmizlik, çəkim və ağız sağlamlığı." },
+      "dermatology": { "title": "Dermatologiya", "desc": "Dəri patologiyaları, allergiya və xroniki hallar." },
+      "grooming": { "title": "Pet groominq", "desc": "Kəsim, çimmək, dırnaq və qulaq qulluğu." },
+      "homeVisit": { "title": "Ev ziyarəti", "desc": "50 km radiusda müayinə, vaksin və qan götürmə." },
+      "petTaxi": { "title": "Pet taksi", "desc": "Higiyenik nəqliyyat — stresssiz klinika yolu." }
+    }
+  },
+  "why": {
+    "eyebrow": "Niyə biz",
+    "title": "Fərq yaradan",
+    "titleAccent": "səbəblər.",
+    "items": {
+      "doctors": { "title": "Təcrübəli həkimlər", "desc": "15+ illik praktikaya malik sertifikatlı baytar həkimlər." },
+      "equipment": { "title": "Müasir avadanlıq", "desc": "IDEXX səviyyəli diaqnostika, rəqəmsal görüntüləmə." },
+      "stress": { "title": "Stresssiz mühit", "desc": "Ayrı gözləmə zonaları və sakit müayinə tempi." },
+      "pricing": { "title": "Şəffaf qiymət", "desc": "Gizli ödəniş yoxdur — qiymət müayinədən sonra təsdiqlənir." },
+      "diagnosis": { "title": "Sürətli diaqnoz", "desc": "Daxili laboratoriya ilə eyni gün nəticələr." },
+      "support": { "title": "Təcili dəstək", "desc": "İş saatlarında təcili xətt — hər dəqiqə önəmlidir." }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Komandamız",
+    "title": "Bacarıq və",
+    "titleAccent": "ürək — birlikdə.",
+    "subtitle": "Təcrübəli həkimlər və qayğıkeş komanda — bir məqsəd: dostunuzun sağlığı.",
+    "book": "Randevu",
+    "experience": "{years}+ il təcrübə"
+  },
+  "gallery": {
+    "eyebrow": "Qalereya",
+    "title": "Klinika",
+    "titleAccent": "atmosferi.",
+    "subtitle": "Müasir otaqlar, avadanlıq və xoşbəxt xəstələrimiz."
+  },
+  "process": {
+    "eyebrow": "Proses",
+    "title": "Sadə",
+    "titleAccent": "4 addım.",
+    "steps": {
+      "book": { "title": "Randevu alın", "desc": "Onlayn forma, WhatsApp və ya zəng — 15 dəqiqədə cavab." },
+      "visit": { "title": "Klinikaya gəlin", "desc": "Sakit gözləmə zonası, vaxtında qəbul." },
+      "diagnosis": { "title": "Diaqnoz", "desc": "Müayinə, laboratoriya və görüntüləmə — aydın izah." },
+      "treatment": { "title": "Müalicə və bərpa", "desc": "Fərdi plan, izləmə və evə qulluq tövsiyələri." }
+    }
+  },
+  "stats": {
+    "years": "İl təcrübə",
+    "pets": "Müalicə olunan heyvan",
+    "rating": "Rəy reytinqi",
+    "satisfaction": "Müştəri məmnuniyyəti"
+  },
+  "testimonials": {
+    "eyebrow": "Rəylər",
+    "title": "Sahiblər",
+    "titleAccent": "bizə güvənir.",
+    "subtitle": "392 rəydən 88%-i bizi tövsiyə edir.",
+    "googleCta": "Google rəylərinə bax"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Tez-tez",
+    "titleAccent": "verilən suallar.",
+    "subtitle": "Cavab tapmadınız? Zəng edin — aydın izah edəcəyik.",
+    "items": {
+      "hours": {
+        "q": "İş saatlarınız hansıdır?",
+        "a": "B.e.–Şənbə 10:00–18:00, bazar bağlıdır. İş saatlarında təcili hallar üçün 050 355 17 17 zəng edin."
+      },
+      "walkin": {
+        "q": "Randevusuz gələ bilərəm?",
+        "a": "Bəli, növbə əsasında qəbul edirik. Gözləməni azaltmaq üçün onlayn və ya telefonla əvvəlcədən yazılmağı tövsiyə edirik."
+      },
+      "home": {
+        "q": "Ev ziyarəti varmı?",
+        "a": "Bəli — rutin müayinə, vaksinasiya, qan götürmə və səyahət stressi olan heyvanlar üçün 50 km radiusda ev ziyarəti."
+      },
+      "passport": {
+        "q": "Beynəlxalq heyvan pasportu verirsiniz?",
+        "a": "Bəli. Lisenziyalı klinikayıq — pasport veririk və AB səyahəti üçün FAVN nümunəsi götürürük."
+      },
+      "animals": {
+        "q": "Hansı heyvanlara baxırsınız?",
+        "a": "İtlər, pişiklər, dovşanlar, hamsterlər, quşlar və kiçik ekzotiklər. Fermer heyvanları razılaşma ilə."
+      },
+      "payment": {
+        "q": "Hansı ödəniş üsullarını qəbul edirsiniz?",
+        "a": "Nağd, Visa/MasterCard, bank köçürməsi və mobil ödənişlər. Böyük prosedurlar üçün hissəli ödəniş mümkündür."
+      },
+      "emergency": {
+        "q": "Təcili vəziyyətdə nə etməliyəm?",
+        "a": "Dərhal 050 355 17 17 zəng edin. İş saatlarında növbətçi həkim kritik çağırışlara cavab verir."
+      },
+      "price": {
+        "q": "Qiymətlər necə müəyyən olunur?",
+        "a": "Başlanğıc qiymətlər saytdadır. Yekun məbləğ həkim müayinəsindən sonra təsdiqlənir — gizli ödəniş yoxdur."
+      },
+      "english": {
+        "q": "İngilis dilində xidmət varmı?",
+        "a": "Bəli. İngilis dilində danışan həkimlərimiz rutin müayinədən təcili cərrahiyyəyə qədər xidmət göstərir."
+      },
+      "parking": {
+        "q": "Parkinq varmı?",
+        "a": "Bəli, klinika yaxınlığında əlçatan parkinq var. Dəqiq istiqamət üçün WhatsApp yazın."
+      }
+    }
+  },
+  "booking": {
+    "eyebrow": "Randevu",
+    "title": "Bu gün",
+    "titleAccent": "yazılın.",
+    "subtitle": "Formanı doldurun — WhatsApp-da 15 dəqiqə ərzində cavab veririk.",
+    "name": "Adınız",
+    "phone": "Telefon",
+    "email": "Email",
+    "petType": "Heyvan növü",
+    "petDog": "İt",
+    "petCat": "Pişik",
+    "petOther": "Digər",
+    "date": "Tercih edilən tarix",
+    "service": "Xidmət",
+    "notes": "Qısa qeyd (istəyə bağlı)",
+    "submit": "WhatsApp ilə göndər",
+    "privacy": "Məlumatlarınız yalnız randevu təşkili üçün istifadə olunur.",
+    "required": "Bu sahə mütləqdir",
+    "serviceOptions": {
+      "consultation": "Konsultasiya / Müayinə",
+      "vaccination": "Vaksinasiya",
+      "surgery": "Cərrahiyyə",
+      "diagnostics": "Diaqnostika (USM, rentgen)",
+      "emergency": "Təcili",
+      "other": "Digər"
+    }
+  },
+  "contact": {
+    "eyebrow": "Əlaqə",
+    "title": "Zəng edin, yazın,",
+    "titleAccent": "gəlin.",
+    "subtitle": "Sualınız, randevu və ya təcili vəziyyət — hazırıq.",
+    "phone": "Telefon",
+    "emergency": "Təcili xətt",
+    "address": "Ünvan",
+    "hours": "İş saatları",
+    "hoursValue": "B.e.–Şənbə: 10:00–18:00 · Bazar: Bağlı",
+    "email": "E-poçt",
+    "whatsapp": "WhatsApp",
+    "maps": "Xəritədə aç",
+    "instagram": "Instagram"
+  },
+  "footer": {
+    "desc": "Bakıda 2009-cu ildən premium özəl baytar klinikası.",
+    "clinic": "Klinika",
+    "services": "Xidmətlər",
+    "contact": "Əlaqə",
+    "newsletter": "Yeniliklər",
+    "newsletterPlaceholder": "Email ünvanınız",
+    "newsletterCta": "Abunə ol",
+    "newsletterSuccess": "Təşəkkürlər! Tezliklə əlaqə saxlayacağıq.",
+    "rights": "Bütün hüquqlar qorunur.",
+    "blog": "Bloq"
+  },
+  "pricing": {
+    "eyebrow": "Qiymətlər",
+    "title": "Gizli ödəniş yoxdur.",
+    "titleAccent": "Aydın hesab.",
+    "subtitle": "Əsas xidmətlərin başlanğıc qiymətləri. Yekun məbləğ müayinədən sonra təsdiqlənir.",
+    "from": "-dən",
+    "note": "* Cərrahiyyə və fərdi müalicə planları həkim qiymətləndirməsindən sonra dəqiq göstərilir.",
+    "items": {
+      "consultation": "İlkin konsultasiya",
+      "vaccination": "Tam vaksinasiya (it/pişik)",
+      "blood": "Qan paneli (ümumi)",
+      "ultrasound": "Ultrasəs",
+      "xray": "Rəqəmsal rentgen",
+      "neuter": "Sterilizasiya/kastrasiya (pişik)",
+      "dental": "Diş təmizliyi"
+    }
+  },
+  "cta": {
+    "call": "Zəng",
+    "whatsapp": "WhatsApp",
+    "book": "Randevu",
+    "backToTop": "Yuxarı"
+  },
+  "common": {
+    "learnMore": "Ətraflı",
+    "loading": "Yüklənir…"
+  }
+}

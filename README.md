@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VetCare · Bakı — Premium Veterinary Clinic Sales Demo
 
-## Getting Started
+Multi-language (AZ / EN / RU) Next.js landing page template for selling websites to veterinary clinics in Azerbaijan.
 
-First, run the development server:
+## Stack
+
+- Next.js App Router + TypeScript
+- Tailwind CSS + shadcn/ui
+- Framer Motion + Lucide
+- next-intl (AZ / EN / RU)
+- Vercel-ready
+
+## Quick start
 
 ```bash
+cp .env.example .env.local
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) — redirects to `/az`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Customize a clinic (< 15 minutes)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Edit [`src/config/clinic.ts`](src/config/clinic.ts) — name, phone, WhatsApp, address, maps, socials, stats
+2. Replace logo at `public/images/logo.svg`
+3. Update copy in `src/messages/az.json`, `en.json`, `ru.json`
+4. Swap doctors / gallery / testimonials in `src/content/*`
+5. Set `NEXT_PUBLIC_SITE_URL` for production SEO
 
-## Learn More
+## Scripts
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Command | Description |
+|---------|-------------|
+| `npm run dev` | Development server |
+| `npm run build` | Production build |
+| `npm run start` | Serve production build |
+| `npm run lint` | ESLint |
+| `npm run typecheck` | TypeScript check |
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Push this repo to GitHub
+2. Import at [vercel.com/new](https://vercel.com/new) (Framework: Next.js)
+3. Add env `NEXT_PUBLIC_SITE_URL` = your production URL (no trailing slash)
+4. Deploy — every push to `main` = Production; PRs = Preview
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Region is set to `fra1` (Frankfurt) in `vercel.json`.
+
+## Booking flow
+
+The appointment form opens WhatsApp (`wa.me`) with a prefilled message. No backend required.
+
+## Local formats
+
+- Currency: AZN (₼)
+- Phone: +994 XX XXX XX XX
+- Date: DD.MM.YYYY

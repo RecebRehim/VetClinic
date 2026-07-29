@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "title": "VetCare · Baku — Premium Veterinary Clinic",
+    "description": "Premium veterinary care in Baku. Emergency, surgery, vaccination, diagnostics and home visits. Book via WhatsApp or call."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "doctors": "Doctors",
+    "about": "About",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "book": "Book Appointment"
+  },
+  "clinic": {
+    "tagline": "Premium veterinary clinic",
+    "since": "Since 2009"
+  },
+  "hero": {
+    "eyebrow": "Trusted vet care since 2009",
+    "title": "Exceptional veterinary care for",
+    "titleAccent": "every stage of your pet's life",
+    "subtitle": "VetCare has been looking after Baku's pets for over 15 years. From routine check-ups to complex surgery — we're with you every step of the way.",
+    "ctaBook": "Book Appointment",
+    "ctaCall": "Call Now",
+    "badgeYears": "15+ Years",
+    "badgePets": "25,000+ Happy Pets",
+    "badgeEmergency": "Emergency Care",
+    "badgeLicensed": "Licensed Veterinarians",
+    "floatRating": "4.9★ · 392 reviews",
+    "floatEmergency": "Emergency: 050 355 17 17"
+  },
+  "features": {
+    "emergency": "Emergency Care",
+    "xray": "Digital X-Ray",
+    "ultrasound": "Ultrasound",
+    "lab": "Laboratory",
+    "vaccination": "Vaccinations",
+    "surgery": "Surgery",
+    "grooming": "Pet Grooming",
+    "homeVisit": "Home Visits"
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "15 years —",
+    "titleAccent": "with love and science.",
+    "story": "VetCare began in 2009 and grew into one of Baku's most respected full-service private veterinary clinics. We combine a deep love for animals with rigorous medical expertise.",
+    "mission": "Our mission is to deliver stress-free, transparent, premium healthcare to every pet and their family.",
+    "values": {
+      "licensed": {
+        "title": "Licensed team",
+        "desc": "Every doctor is certified, trained to European protocols, and in continuous professional development."
+      },
+      "equipped": {
+        "title": "Fully equipped",
+        "desc": "Digital X-ray, ultrasound, in-house lab, surgical theatre, and overnight care — all under one roof."
+      },
+      "friendly": {
+        "title": "Pet-friendly approach",
+        "desc": "Low-stress exam rooms, separate waiting zones for dogs and cats, and time to settle in."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "With you",
+    "titleAccent": "for life.",
+    "subtitle": "From routine shots to complex surgery — everything your pet needs, in one place.",
+    "items": {
+      "checkup": { "title": "General Checkups", "desc": "Full clinical exam, prevention plan, and wellness tracking." },
+      "vaccination": { "title": "Vaccination", "desc": "Rabies, core vaccines, and schedules for international travel." },
+      "sterilization": { "title": "Sterilization", "desc": "Safe spay procedures with modern anaesthesia and monitoring." },
+      "castration": { "title": "Castration", "desc": "Experienced surgeons and comfortable recovery protocols." },
+      "emergency": { "title": "Emergency Care", "desc": "On-call vet during working hours for critical cases." },
+      "passport": { "title": "Pet Passport", "desc": "Licensed clinic — international passport and FAVN sampling." },
+      "microchip": { "title": "Microchipping", "desc": "ISO microchip implantation and registration." },
+      "blood": { "title": "Blood Analysis", "desc": "In-house lab — results often the same day." },
+      "ultrasound": { "title": "Ultrasound", "desc": "Internal organs, pregnancy, and fast diagnostics." },
+      "xray": { "title": "Digital X-Ray", "desc": "Fast, accurate bone and internal imaging." },
+      "surgery": { "title": "Surgery", "desc": "Soft tissue, orthopaedic, and spay/neuter procedures." },
+      "dentistry": { "title": "Dentistry", "desc": "Professional cleaning, extractions, and oral health care." },
+      "dermatology": { "title": "Dermatology", "desc": "Skin pathology, allergies, and chronic conditions." },
+      "grooming": { "title": "Pet Grooming", "desc": "Clipping, bathing, nail and ear care." },
+      "homeVisit": { "title": "Home Visit", "desc": "Exams, vaccines, and blood draws within 50 km." },
+      "petTaxi": { "title": "Pet Taxi", "desc": "Hygienic transport — a calmer trip to the clinic." }
+    }
+  },
+  "why": {
+    "eyebrow": "Why choose us",
+    "title": "Reasons that",
+    "titleAccent": "build trust.",
+    "items": {
+      "doctors": { "title": "Experienced Doctors", "desc": "Certified veterinarians with 15+ years of practice." },
+      "equipment": { "title": "Modern Equipment", "desc": "IDEXX-level diagnostics and digital imaging." },
+      "stress": { "title": "Stress-Free Environment", "desc": "Separate waiting zones and a calm exam pace." },
+      "pricing": { "title": "Transparent Pricing", "desc": "No hidden fees — final amount after the doctor's exam." },
+      "diagnosis": { "title": "Fast Diagnosis", "desc": "Same-day results from our in-house laboratory." },
+      "support": { "title": "Emergency Support", "desc": "On-call line during working hours when every minute counts." }
+    }
+  },
+  "doctors": {
+    "eyebrow": "Our team",
+    "title": "Skill and",
+    "titleAccent": "heart — together.",
+    "subtitle": "Experienced doctors and a caring team — all working toward your pet's health.",
+    "book": "Book",
+    "experience": "{years}+ years experience"
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title": "Inside the",
+    "titleAccent": "clinic.",
+    "subtitle": "Modern rooms, equipment, and the pets we care for."
+  },
+  "process": {
+    "eyebrow": "Process",
+    "title": "Simple",
+    "titleAccent": "4 steps.",
+    "steps": {
+      "book": { "title": "Book Appointment", "desc": "Online form, WhatsApp, or call — we reply within 15 minutes." },
+      "visit": { "title": "Visit Clinic", "desc": "Calm waiting area and on-time appointments." },
+      "diagnosis": { "title": "Diagnosis", "desc": "Exam, lab, and imaging — explained clearly." },
+      "treatment": { "title": "Treatment & Recovery", "desc": "Personal plan, follow-up, and home-care guidance." }
+    }
+  },
+  "stats": {
+    "years": "Years Experience",
+    "pets": "Pets Treated",
+    "rating": "Review Rating",
+    "satisfaction": "Client Satisfaction"
+  },
+  "testimonials": {
+    "eyebrow": "Reviews",
+    "title": "Pet owners",
+    "titleAccent": "trust us.",
+    "subtitle": "88% of 392 reviews recommend us.",
+    "googleCta": "See Google reviews"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently",
+    "titleAccent": "asked questions.",
+    "subtitle": "Can't find your answer? Call us — we'll explain clearly.",
+    "items": {
+      "hours": {
+        "q": "What are your hours?",
+        "a": "Mon–Sat 10:00–18:00, closed Sunday. For urgent cases during working hours, call 050 355 17 17."
+      },
+      "walkin": {
+        "q": "Can I walk in without an appointment?",
+        "a": "Yes, we accept walk-ins on a queue basis. To minimise waiting, we recommend booking online or by phone."
+      },
+      "home": {
+        "q": "Do you offer home visits?",
+        "a": "Yes — routine exams, vaccination, blood draws, and pets that stress during travel, within a 50 km radius."
+      },
+      "passport": {
+        "q": "Do you issue an international pet passport?",
+        "a": "Yes. We are a licensed clinic that issues pet passports and takes FAVN samples for EU travel."
+      },
+      "animals": {
+        "q": "Which animals do you treat?",
+        "a": "Dogs, cats, rabbits, hamsters, birds, and small exotics. Farm animals by arrangement."
+      },
+      "payment": {
+        "q": "What payment methods do you accept?",
+        "a": "Cash, Visa/MasterCard, bank transfer, and mobile payments. Instalments available for major procedures."
+      },
+      "emergency": {
+        "q": "What should I do in an emergency?",
+        "a": "Call 050 355 17 17 immediately. During working hours our on-call vet responds to critical calls."
+      },
+      "price": {
+        "q": "How is pricing determined?",
+        "a": "Starting prices are listed on the site. The final amount is confirmed after the doctor's assessment — no hidden fees."
+      },
+      "english": {
+        "q": "Do you have English-speaking staff?",
+        "a": "Yes. Our English-speaking veterinarians handle everything from checkups to emergency surgery."
+      },
+      "parking": {
+        "q": "Is there parking?",
+        "a": "Yes, convenient parking near the clinic. Message us on WhatsApp for directions."
+      }
+    }
+  },
+  "booking": {
+    "eyebrow": "Appointment",
+    "title": "Book",
+    "titleAccent": "today.",
+    "subtitle": "Fill in the form — we reply on WhatsApp within 15 minutes.",
+    "name": "Your name",
+    "phone": "Phone",
+    "email": "Email",
+    "petType": "Pet type",
+    "petDog": "Dog",
+    "petCat": "Cat",
+    "petOther": "Other",
+    "date": "Preferred date",
+    "service": "Service",
+    "notes": "Brief notes (optional)",
+    "submit": "Send via WhatsApp",
+    "privacy": "Your details are used only to arrange the appointment.",
+    "required": "This field is required",
+    "serviceOptions": {
+      "consultation": "Consultation / Exam",
+      "vaccination": "Vaccination",
+      "surgery": "Surgery",
+      "diagnostics": "Diagnostics (ultrasound, X-ray)",
+      "emergency": "Emergency",
+      "other": "Other"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Call, write,",
+    "titleAccent": "come in.",
+    "subtitle": "Whether you have a question, need to book, or have an emergency — we're ready.",
+    "phone": "Phone",
+    "emergency": "Emergency line",
+    "address": "Address",
+    "hours": "Working hours",
+    "hoursValue": "Mon–Sat: 10:00–18:00 · Sun: Closed",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "maps": "Open in Maps",
+    "instagram": "Instagram"
+  },
+  "footer": {
+    "desc": "A private premium veterinary clinic in Baku since 2009.",
+    "clinic": "Clinic",
+    "services": "Services",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "newsletterPlaceholder": "Your email",
+    "newsletterCta": "Subscribe",
+    "newsletterSuccess": "Thank you! We'll be in touch soon.",
+    "rights": "All rights reserved.",
+    "blog": "Blog"
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "No hidden fees.",
+    "titleAccent": "Clear bills.",
+    "subtitle": "Starting prices for core services. Final amount confirmed after the doctor's exam.",
+    "from": "from",
+    "note": "* Surgical procedures and specific treatment plans are quoted after the doctor's assessment.",
+    "items": {
+      "consultation": "Initial consultation",
+      "vaccination": "Full vaccination (dog/cat)",
+      "blood": "Blood panel (general)",
+      "ultrasound": "Ultrasound",
+      "xray": "Digital X-ray",
+      "neuter": "Spay/neuter (cat)",
+      "dental": "Dental scaling"
+    }
+  },
+  "cta": {
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "book": "Book",
+    "backToTop": "Back to top"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "loading": "Loading…"
+  }
+}
